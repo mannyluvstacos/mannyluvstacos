@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![update](https://github.com/mannyluvstacos/mannyluvstacos/actions/workflows/update.yaml/badge.svg)](https://github.com/mannyluvstacos/mannyluvstacos/actions/workflows/update.yaml)
-
 <!--
 **mannyluvstacos/mannyluvstacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
